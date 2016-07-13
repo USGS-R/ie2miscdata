@@ -14,7 +14,8 @@
 pmcode_01335
 }
 \description{
-A table containing the USGS Sewage Solids, Fresh, Floating (Severity) parameter codes.
+A table containing the USGS Sewage Solids, Fresh, Floating (Severity)
+parameter codes.
 }
 \examples{
 pmcode_01335

@@ -14,8 +14,7 @@
 pmcode_99107
 }
 \description{
-A table containing the USGS Spike, Source, Fixed Value Code
-parameter codes.
+A table containing the USGS Spike, Source, Fixed Value Code parameter codes.
 }
 \examples{
 pmcode_99107

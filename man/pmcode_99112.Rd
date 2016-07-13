@@ -14,8 +14,8 @@
 pmcode_99112
 }
 \description{
-A table containing the USGS Sulfide, Water, Filtered, Field, milligrams Per Liter
-parameter codes.
+A table containing the USGS Sulfide, Water, Filtered, Field, milligrams Per
+Liter parameter codes.
 }
 \examples{
 pmcode_99112

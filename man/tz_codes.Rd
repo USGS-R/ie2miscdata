@@ -4,22 +4,21 @@
 \name{tz_codes}
 \alias{tz_codes}
 \title{Timezone (tz) codes}
-\format{A data frame with 54 rows and 7 variables:
+\format{A data.table data frame with 54 rows and 7 variables:
 \describe{
-\item{Tz Cd}{USGS Parameter Code}
-\item{Tz Nm}{Fixed Value}
-\item{Tz Ds}{Fixed Text}
-\item{Tz Utc Offset Tm}{USGS Parameter Code}
-\item{Tz Dst Cd}{Fixed Value}
-\item{Tz Dst Nm}{Fixed Text}
-\item{Tz Dst Utc Offset Tm}{Fixed Text}
+\item{Tz Cd}{Timezone Code}
+\item{Tz Nm}{Timezone Name}
+\item{Tz Ds}{Timezone Location}
+\item{Tz Utc Offset Tm}{Timezone UTC Offset}
+\item{Tz Dst Cd}{Timezone Daylight Savings Code}
+\item{Tz Dst Nm}{Timezone Daylight Savings Name}
+\item{Tz Dst Utc Offset Tm}{Timezone Daylight Savings UTC Offset}
 }}
 \usage{
 tz_codes
 }
 \description{
-A table containing the worldwide timezones and GMT offsets.
-codes.
+A table containing the worldwide timezones and UTC offsets.
 }
 \examples{
 tz_codes

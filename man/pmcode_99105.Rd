@@ -14,8 +14,8 @@
 pmcode_99105
 }
 \description{
-A table containing the USGS Replicate, Type, Fixed Value Code
-parameter codes.
+A table containing the USGS Replicate, Type, Fixed Value Code parameter
+codes.
 }
 \examples{
 pmcode_99105

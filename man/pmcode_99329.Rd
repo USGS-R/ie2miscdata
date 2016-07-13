@@ -14,8 +14,8 @@
 pmcode_99329
 }
 \description{
-A table containing the USGS Coliphage, somatic, E. coli C-host, 2-stepenrichment presence/absence per 1 liter
-parameter codes.
+A table containing the USGS Coliphage, somatic, E. coli C-host,
+2-stepenrichment presence/absence per 1 liter parameter codes.
 }
 \examples{
 pmcode_99329

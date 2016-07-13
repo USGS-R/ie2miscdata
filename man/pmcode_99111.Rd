@@ -14,8 +14,8 @@
 pmcode_99111
 }
 \description{
-A table containing the USGS Quality Assurance Data Type Associated With Sample, Code
-parameter codes.
+A table containing the USGS Quality Assurance Data Type Associated With
+Sample, Code parameter codes.
 }
 \examples{
 pmcode_99111
