@@ -8,7 +8,7 @@
 \describe{
 \item{Parameter Code}{USGS Parameter Code}
 \item{Fixed Value}{Fixed Value}
-\item{Fixed Tx}{Fixed Text}
+\item{Fixed Text}{Fixed Text}
 }}
 \usage{
 pmcode_01351
