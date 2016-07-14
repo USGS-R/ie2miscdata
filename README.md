@@ -21,7 +21,9 @@ This package currently contains 70 datasets:
 # Examples (see an example using the weather_results data set in the vignette)
 ```R
 library(install.load)
-load_package("iemiscdata", "data.table") # load needed packages using the load_package function from the install.load package (it is assumed that you have already installed these packages)
+load_package("iemiscdata", "data.table")
+# load needed packages using the load_package function from the install.load
+# package (it is assumed that you have already installed these packages)
 
 
 head(tz_codes) # first 6 rows
