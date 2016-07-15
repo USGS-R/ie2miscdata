@@ -5,7 +5,8 @@ Author: Irucka Embry [aut, cre]
 Maintainer: Irucka Embry <iembry@usgs.gov>
 Depends: R (>= 2.14.1)
 Suggests: install.load, ie2misc, iemisc, iemiscdata, data.table (>= 1.9.4),
-    stringi, qdap, lubridate, knitr, rmarkdown
+    USGSstates2k, spatstat, maptools, ggplot2, stringi, qdap, lubridate, knitr,
+    rmarkdown
 Description: A collection of Irucka Embry's miscellaneous USGS data sets
     (Environmental/Water Resources Engineering). Irucka created these data sets
     while a Cherokee Nation Technology Solutions (CNTS) United States
