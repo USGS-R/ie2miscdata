@@ -2,7 +2,10 @@
 title: "Map of US Engineering Weather Sites"
 author: "Irucka Embry"
 date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
+output:
+  rmarkdown::html_document:
+    highlight: kate
+    theme: readable
 vignette: >
   %\VignetteIndexEntry{Creating ggplot2 Map of US Engineering Weather Sites}
   %\VignetteEngine{knitr::rmarkdown}
@@ -99,15 +102,13 @@ p <- p + theme(axis.ticks.y = element_blank(), axis.text.y = element_blank(), # 
           panel.grid.major = element_blank(), # Source 3 / get rid of major grid
           panel.grid.minor = element_blank()) # Source 3 / get rid of minor grid
 print(p)
-# dev.off()
 # Source 1 - 6 ends
 ```
 
-
+<br />
+<br />
 
 # Sources
-
-<br />
 
 Mapping in R using the ggplot2 package Posted on July 16, 2014 by ZevRoss. See http://zevross.com/blog/2014/07/16/mapping-in-r-using-the-ggplot2-package/.
 
